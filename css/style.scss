@@ -78,7 +78,6 @@ li{
         font-size: 23px;
         color: #666;
         line-height: 1.7;
-        margin: 5px 0 0;
         text-align: left;
 }
 
@@ -270,7 +269,8 @@ i {
     }
 
     .intro {
-        width: 90%;
+        width: 100%;
+        margin: 0 !important;
     }
 
 
@@ -289,7 +289,7 @@ i {
 }
 
 .text {
-    width: 90%;
+    width: 100%;
     text-align: center;
 }
 
